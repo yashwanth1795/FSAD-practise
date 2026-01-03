@@ -9,7 +9,7 @@ public class JDBCEmployeeDeptDemo {
 
         String url = "jdbc:mysql://localhost:3306/wtnjava";
         String user = "root";
-        String password = "Yash@002"; // keep your actual password here
+        String password = "root123"; // keep your actual password here
 
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");

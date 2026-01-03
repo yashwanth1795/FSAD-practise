@@ -11,7 +11,7 @@ public class CreateTable {
     	String url = "jdbc:mysql://localhost:3306/studentdb";
  
         String user = "root";         
-        String pass = "Yash@002";
+        String pass = "root123";
 
         try {
             Connection con = DriverManager.getConnection(url, user, pass);
