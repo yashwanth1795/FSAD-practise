@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Di-CourseRegistration</name>
+=======
+	<name>Di-ECommerceApp-Autowired</name>
+>>>>>>> f3870c8dbd8890f7481a9923ff6c31d137dedd3c
 	<comment></comment>
 	<projects>
 	</projects>
